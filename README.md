@@ -30,7 +30,13 @@ The number of genetic breaks in each of the 92 segments across all species was r
 # Scripts 
 - functions.R : functions to load in the R environment to generate the random simulations of the data set, perform the randomisation test and generate the plots for the Figures found in the manuscript. 
 
-- NZ_quantitative_connectivity.R : R Script to perform the analysis and reproduce the results. 
+- NZ_quantitative_connectivity.R : R Script example to perform the analysis and reproduce the results.  
+
+# Additional analysis 
+
+## Complete_analysis
+Use the scripts in this folder to generate all the simulation matrices performed and analysed in the manuscript. 
+
 
 ## If you use these data files or scripts in future work, please cite:
 XXXXXX

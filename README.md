@@ -34,7 +34,7 @@ The number of genetic breaks in each of the 92 segments across all species was r
 
 # Additional analysis 
 
-### Complete_analysis
+### Complete_analysis folder
 Use the scripts in this folder to generate all the simulation matrices performed and analysed in the manuscript. 
 
 

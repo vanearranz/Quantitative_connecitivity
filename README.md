@@ -5,13 +5,13 @@ Those scripts are based on Pelc et al. 2009 paper with our own dataset from prev
 
 # Input files 
 
-Species folder
+### Species folder
 
 - Segments.csv with a total of 92 rarified sampling locations therefore divided the New Zealand (NZ) coastline into 92 between-site coastal segments. The New Zealand coastline was then linearized using simplified coastal distances between all rarified sampling points. The starting point (0 km) was Cape Reinga at the northern tip of the North Island. 
 - segdat.csv with the geographic coordinates (latitude and longitude) of each of the 92 segments to plot the results in a NZ map. 
 - 21 "Species_name".csv files with the starting and end point of each of the sampling segments of each population genetic study. Those starting and end points are based on the previously linearized NZ coast. 
   
-realvec folder
+### realvec folder
 
 The number of genetic breaks in each of the 92 segments across all species was recorded based on different fixation indexes (Fst and Phist). Different .csv files correspond to the different groups for analysing the data. 
 

@@ -16,16 +16,16 @@ Those scripts are based on Pelc et al. 2009 paper with our own dataset from prev
 The number of genetic breaks in each of the 92 segments across all species was recorded based on different fixation indexes (Fst and Phist). Different .csv files correspond to the different groups for analysing the data. 
 
 - real_Fst_all.csv : genetic breaks found including all 21 species based on Fst analysis
-- real_Fst_high : genetic breaks found including 9 high-dispersal species based on Fst analysis
-- real_Fst_low : genetic breaks found including 12 low-dispersal species based on Fst analysis
-- real_Hab_high : genetic breaks found including 2 species inhabiting the high-intertidal zone based on Fst analysis
-- real_Hab_low : genetic breaks found including 13 species inhabiting the low-intertidal zone based on Fst analysis
-- real_hab_sub : genetic breaks found including 6 species inhabiting the subtidal zone based on Fst analysis
-- real_microsats : genetic breaks found including 5 species studied using microsatellites DNA markers based on Fst analysis
-- real_mitocon : genetic breaks found including 16 species studied using mitochondrial DNA markers based on Fst analysis
-- real_Phist_all : genetic breaks found including 13 species based on Phist analysis
-- real_Phist_high : genetic breaks found including 4 high-dispersal species based on Phist analysis
-- real_Phist_low : genetic breaks found including 9 low-dispersal species based on Phist analysis
+- real_Fst_high.csv : genetic breaks found including 9 high-dispersal species based on Fst analysis
+- real_Fst_low.csv : genetic breaks found including 12 low-dispersal species based on Fst analysis
+- real_Hab_high.csv : genetic breaks found including 2 species inhabiting the high-intertidal zone based on Fst analysis
+- real_Hab_low.csv : genetic breaks found including 13 species inhabiting the low-intertidal zone based on Fst analysis
+- real_hab_sub.csv : genetic breaks found including 6 species inhabiting the subtidal zone based on Fst analysis
+- real_microsats.csv : genetic breaks found including 5 species studied using microsatellites DNA markers based on Fst analysis
+- real_mitocon.csv : genetic breaks found including 16 species studied using mitochondrial DNA markers based on Fst analysis
+- real_Phist_all.csv : genetic breaks found including 13 species based on Phist analysis
+- real_Phist_high.csv : genetic breaks found including 4 high-dispersal species based on Phist analysis
+- real_Phist_low.csv : genetic breaks found including 9 low-dispersal species based on Phist analysis
 
 # Scripts 
 - functions.R : functions to load in the R environment to generate the random simulations of the data set, perform the randomisation test and generate the plots for the Figures found in the manuscript. 

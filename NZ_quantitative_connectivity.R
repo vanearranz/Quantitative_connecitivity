@@ -141,7 +141,7 @@ res.out.allF2 <- pelc.significant.func(mat= Bmat_F_all, rvec = realvec, siglevel
 #### Step 4. Plot the significance levels in each segment #### 
 
 ## Add the geographic information of each segment to plot in a map
-segdat <- read.csv("segdat.csv", as.is=T)
+segdat <- read.csv("Species/segdat.csv", as.is=T)
 
 # Plot with sig.plot or sig.plot2 with different levels of significance
 sig.plot(res.out.allF2$sig, segdat = segdat)
